@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **kenan.basdemir5858@gmail.com**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenanbasdemir&layout=compact)](https://github.com/kenanbasdemir/github-readme-stats)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
