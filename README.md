@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kenan BAŞDEMİR</h1>
 <h3 align="center">A passionate backend developer from Sivas, Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenanbasdemir" alt="kenanbasdemir" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenanbasdemir" alt="kenanbasdemir" /> </p> -->
+![](https://komarev.com/ghpvc/?username=kenanbasdemir&color=green)
 
 - 🔭 I’m currently working at **Detaysoft**
 
