@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kenan BAŞDEMİR</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kenan BAŞDEMİR</h1>
 <h3 align="center">A passionate backend developer from Sivas, Turkey</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenanbasdemir" alt="kenanbasdemir" /> </p> -->
