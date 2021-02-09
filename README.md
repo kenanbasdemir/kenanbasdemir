@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working at **Detaysoft**
 
-- 🌱 I’m currently learning **.net techs, frameworks**
+- 🌱 I’m currently learning **.net core techs, frameworks**
 
 - 📝 I regulary write articles on [https://medium.com/@kenan.basdemir](https://medium.com/@kenan.basdemir)
 
-- 💬 Ask me about **.net techs, tech integration**
+- 💬 Ask me about **.net core, techs, tech integration, docker/kubernetes**
 
 - 📫 How to reach me **kenan.basdemir5858@gmail.com**
 
