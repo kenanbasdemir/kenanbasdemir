@@ -73,6 +73,6 @@ Technologies used: Ocelot, ASP.NET Core WebAPI, Python.
 ---
 
 ## 📫 Contact
-- LinkedIn: [Kenan BAŞDEMİR](https://linkedin.com/in/kenan-başdemir-140b2a189)
+- LinkedIn: [Kenan BAŞDEMİR](https://linkedin.com/in/kenanbd)
 - Stackoverflow: [Kenan BAŞDEMİR](https://stackoverflow.com/users/11387294)
 - Medium: [Kenan BAŞDEMİR](https://medium.com/@kenan.basdemir)
